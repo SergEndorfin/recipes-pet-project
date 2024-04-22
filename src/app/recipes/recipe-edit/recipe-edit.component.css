@@ -1,0 +1,11 @@
+.btn-success {
+  margin-right: 3px;
+}
+
+.main-content {
+  margin-top: 15px;
+}
+
+input.ng-invalid.ns-touched {
+  border: solid red 1px;
+}
